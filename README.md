@@ -1,4 +1,4 @@
-# BiostatsGPT
+# BioStatsGPT
 A learning assistant for bioinformatics and biostatistics topics.
 
 Provides structured and instructive code examples and step-by-step equation and algorithm walkthroughs.
