@@ -1,7 +1,7 @@
 # BioStatsGPT
-A learning assistant for bioinformatics and biostatistics topics.
+An assistant for bioinformatics and biostatistics topics.
 
-Provides structured and instructive code examples and step-by-step equation and algorithm walkthroughs.
+Provides structured and instructive code examples and step-by-step equation/algorithm walkthroughs.
 
 This GPT encourages the user to ask refined, rather than vague, questions, to dive into the deeper aspects of understanding (or misunderstanding).
 
