@@ -10,9 +10,11 @@
 - [Disclaimer](#disclaimer)
 
 ## Overview
-Rosa provides is a modified version of ChatGPT, built using the OpenAI GPT Assistant feature.
+RosaGPT is a modified version of ChatGPT, built using the OpenAI GPT Assistant feature.
 
-Rosa is instructed to provide structured and instructive code examples and step-by-step equation/algorithm walkthroughs. During pair learning sessions, it encourages the user to ask refined questions to dive into the deeper aspects of understanding a topic.
+Rosa is instructed to provide structured and instructive code examples to optimize analytical effectiveness.
+
+Rosa also acts as an excellent pair learner by providing step-by-step topic, equation, and algorithm walkthroughs. During pair learning sessions, it encourages the user to ask refined questions to dive into the deeper aspects of understanding a topic.
 
 ## Examples
 ### RosaGPT vs. ChatGPT
