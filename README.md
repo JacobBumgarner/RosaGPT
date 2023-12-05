@@ -1,5 +1,5 @@
 # RosaGPT
-A working and learning assistant for bioinformatics and biostatistics topics.
+[RosaGPT](https://chat.openai.com/g/g-6VqZewHmW-rosagpt) is a working and learning assistant for bioinformatics and biostatistics topics.
 
 **Contents**
 - [Overview](#overview)
