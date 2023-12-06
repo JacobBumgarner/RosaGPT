@@ -12,7 +12,9 @@
 ## Overview
 RosaGPT is a modified version of ChatGPT, built using the OpenAI GPT Assistant feature.
 
-Rosa is instructed to provide structured and instructive code examples to optimize analytical effectiveness.
+Rosa's [system prompt](https://github.com/JacobBumgarner/RosaGPT/tree/main/system_prompts) includes a variety of single-shot examples to promote clear, organized, and in-depth responses. As a result, Rosa helps with complicated topics in a more effective manner than base ChatGPT.
+
+From an analytics and coding perspective, Rosa is instructed to provide structured and single-block solutions.
 
 Rosa also acts as an excellent pair learner by providing step-by-step topic, equation, and algorithm walkthroughs. During pair learning sessions, it encourages the user to ask refined questions to dive into the deeper aspects of understanding a topic.
 
