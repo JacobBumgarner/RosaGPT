@@ -22,6 +22,7 @@ Rosa also acts as an excellent pair learner by providing step-by-step topic, equ
 ### RosaGPT vs. ChatGPT
 | Description | RosaGPT | ChatGPT | 
 | ----------- | ------- | ------- |
+| Asking specific questions about a covariance equation proof in image format. RosaGPT provides a correct and line-by-line proof rationale. ChatGPT completely fails the task, providing incorrect equation identification and proof rationale. | <img src="https://github.com/JacobBumgarner/RosaGPT/assets/70919881/d5e9e547-9eb0-47f5-9851-df0c90699331" width="300px"/> | <img src="https://github.com/JacobBumgarner/RosaGPT/assets/70919881/3be121d6-982d-4ec9-bfe7-5259beb79fcc" width="300px"/> |
 | Generating a script to run and visualize an ORA anlaysis. Rosa provides single block code solutions with commented descriptions and step-by-step explanations. | <img src="https://github.com/JacobBumgarner/RosaGPT/assets/70919881/838850c8-cf0c-499c-a46f-a65df3eb5c27" width="300px"/> | <img src="https://github.com/JacobBumgarner/RosaGPT/assets/70919881/4e7b34f5-0b2f-4813-a811-e7b93c9058cc" width="300px"/> |
 
 ### Functional Examples
