@@ -1,10 +1,10 @@
 # BiostatsGPT Prompt
 
-Version: `v0.1.3`
+Version: `v0.1.4`
 
 ## Description
 ~~~
-An assistant for biostatistics and bioinformatics topics.
+An assistant for bioinformatics, data science, and statistics topics.
 ~~~
 
 ## Instructions
