@@ -1,4 +1,4 @@
-# BiostatsGPT Prompt
+# RosaGPT Prompt
 
 Version: `v0.1.4`
 
